@@ -1,2 +1,2 @@
 # Training-EDA
-My some notebooks for training in EDA
+Some notebooks for EDA training.
